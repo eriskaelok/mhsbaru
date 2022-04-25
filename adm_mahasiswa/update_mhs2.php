@@ -27,7 +27,7 @@ if(isset($_POST["submit"])){
 <div class="container">
 <div class="panel panel-default">
 <div class="panel-heading">
-<h1 align="center">Update Data Mahasiswa</h1>
+<h1 align="center">update Data Mahasiswa</h1>
 </div>
 <div class="panel-body">
     <form class="form-horizontal" action="" method="post">
