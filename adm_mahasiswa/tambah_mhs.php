@@ -9,7 +9,7 @@ if(isset($_POST["submit"])){
     if(tambah($_POST) > 0 ) {
         echo "
             <script>
-                alert('Data BERHASIL ditambahkan');
+                alert('data BERHASIL ditambahkan');
                 document.location.href = '../admin/adm_mahasiswa.php';
             </script>
         ";
