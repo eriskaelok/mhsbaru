@@ -8,7 +8,7 @@ if(isset($_POST["submit"])){
     if(tambah($_POST) > 0 ) {
         echo "
             <script>
-                alert('data BERHASIL ditambahkan');
+                alert('Data BERHASIL ditambahkan');
                 document.location.href = '../admin/adm_matkul.php';
             </script>
         ";
